@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+    
+}
+.google{
+    text-align: center;
+}
+.font{
+    margin-top: 10px;
+    text-align: center
+}
+.arama{
+    text-align: center
+    
+}
+.arama2{
+    margin-top: 5px;
+    text-align: center
+    
+    
+}
+.ozel{
+    display: block;
+    text-align: -webkit-center;
+    background-color: rgb(223, 194, 156);
+    width: 380px;
+    height: 80px;
+    margin-right: auto;
+    margin-left: 215px;
+    margin-top: 5px;
+}
+.yardim{
+    display: block;
+    text-align: -webkit-center;
+    background-color: rgb(223, 194, 156);
+    width: 180px;
+    height: 80px;
+    margin-right: auto;
+    margin-left: 585px;
+    margin-top: 0px;
+    position: relative;
+    bottom: 80px;
+}
+.edinin{
+    display: block;
+    text-align: -webkit-center;
+    background-color: rgb(223, 194, 156);
+    width: 380px;
+    height: 80px;
+    margin-right: auto;
+    margin-left: 765px;
+    margin-top: 0px;
+    position: relative;
+    bottom: 160px;
+}
+.telif{
+    display: block;
+    text-align: -webkit-center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    position: relative;
+    bottom: 160px;
+}
